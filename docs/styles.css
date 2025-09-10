@@ -128,7 +128,7 @@ body {
     height: 100vh;
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
     /* Para trocar a imagem de background, substitua a URL abaixo por uma imagem em alta definição */
-    background-image: url('https://i.imgur.com/BBBSK0e.jpeg');
+    background-image: url('https://i.ibb.co/HTkNSwWZ/FEIRA-CULTURAL-2-M-DIO-1.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -645,3 +645,4 @@ body {
         transform: rotate(360deg);
     }
 }
+
